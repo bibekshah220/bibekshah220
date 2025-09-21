@@ -74,7 +74,7 @@ To become a **Full-Stack Developer & DevOps Engineer**
 
 ## 🎓 Certifications  
 
-- 🖧 **Nutanix NCA 6.5 Certified | Network & System**  
+- 🖧 **Nutanix NCA 6.5 Certified**  
 - 🖧 **CCNA Trained **  
 - 🖧 **Red Hat system administrator / Basic**  
 
