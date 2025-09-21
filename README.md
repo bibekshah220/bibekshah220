@@ -1,6 +1,6 @@
 # Hi 👋  
 
-I'm **Bibek Shah**, a passionate **MERN Stack Developer & Aspiring DevOps Engineer**.  
+I'm **Bibek Shah**, a passionate **MERN Stack Developer**.  
 Nutanix NCA6.5 Certified | Network & System Trained 
 
 ---
