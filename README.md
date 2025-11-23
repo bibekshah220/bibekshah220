@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Nutanix+NCA6.5+Certified;Passionate+Problem+Solver;Future+DevOps+Engineer">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghb?username=bibekshah220&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 🌐 **Connect With Me**
@@ -70,4 +66,4 @@
 
 ---
 
-
+<h3 align="center">💬 Need More Customization? Just Ask!</h3>
