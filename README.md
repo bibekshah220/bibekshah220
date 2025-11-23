@@ -22,12 +22,6 @@
 
 ---
 
-## 🚀 **Featured Projects**
-🎯 [MealMate 🍲](https://github.com/bibekshah220/MealMate) — Android app for meal planning & grocery management  
-🔐 [Secure Auth System](https://github.com/bibekshah220/secure-auth-system) — MERN-based secure user registration with bcrypt & reCAPTCHA  
-
----
-
 ## 🛠️ **Tech Stack & Tools**
 
 <div align="center">
@@ -76,5 +70,4 @@
 
 ---
 
-### 💬 Want a Portfolio Site Too?
-Just type 👉 **"Build my portfolio website"** 😄
+<h3 align="center">💬 Need More Customization? Just Ask!</h3>
