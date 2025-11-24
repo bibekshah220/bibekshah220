@@ -66,4 +66,3 @@
 
 ---
 
-<h3 align="center">💬 Need More Customization? Just Ask!</h3>
