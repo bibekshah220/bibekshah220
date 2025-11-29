@@ -54,16 +54,14 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibekshah220&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibekshah220&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekshah220&layout=compact&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=bibekshah220&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekshah220&layout=compact&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibekshah220&theme=radical" width="48%">
 </div>
-
 
 ---
 
 ## 🧠 **Goal**
-✨ To become a **Full-Stack Developer & DevOps Engineer**
+✨ My goal is to become a **Full-Stack Developer & DevOps Engineer**, building scalable, secure, and efficient applications with modern web technologies and cloud infrastructure.
 
 ---
-
