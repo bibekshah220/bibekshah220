@@ -1,5 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">👋 Hey, I'm <span style="color:#00BFFF">Bibek Shah</span></h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Nutanix+NCA6.5+Certified;">
 </p>
@@ -51,17 +52,33 @@
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 **GitHub Analytics (Fixed & Updated)**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibekshah220&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekshah220&layout=compact&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibekshah220&theme=radical" width="48%">
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=bibekshah220&show_icons=true&theme=radical&cache_seconds=86400" 
+    width="48%"
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekshah220&layout=compact&theme=radical&cache_seconds=86400" 
+    width="48%"
+  />
+
+  <!-- Streak Stats (updated domain) -->
+  <img 
+    src="https://streak-stats.demolab.com?user=bibekshah220&theme=radical" 
+    width="48%"
+  />
+
 </div>
 
 ---
 
 ## 🧠 **Goal**
-✨ My goal is to become a **Full-Stack Developer & DevOps Engineer**, building scalable, secure, and efficient applications with modern web technologies and cloud infrastructure.
+✨ My goal is to become a **Full-Stack Developer & DevOps Engineer**, building scalable, secure, and efficient applications using modern web technologies and cloud infrastructure.
 
 ---
