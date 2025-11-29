@@ -52,33 +52,4 @@
 
 ---
 
-## 📊 **GitHub Analytics**
 
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=bibekshah220&show_icons=true&theme=radical&cache_seconds=86400" 
-    width="48%"
-  />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekshah220&layout=compact&theme=radical&cache_seconds=86400" 
-    width="48%"
-  />
-
-  <!-- Streak Stats (updated domain) -->
-  <img 
-    src="https://streak-stats.demolab.com?user=bibekshah220&theme=radical" 
-    width="48%"
-  />
-
-</div>
-
----
-
-## 🧠 **Goal**
-✨ My goal is to become a **Full-Stack Developer & DevOps Engineer**, building scalable, secure, and efficient applications using modern web technologies and cloud infrastructure.
-
----
