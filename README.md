@@ -56,9 +56,4 @@
 
 ---
 
-## 🚀 **What I Work On**
-- MERN Stack Applications
-- Secure REST APIs & JWT Authentication
-- AI-powered applications using **MCP Servers**
-- Cloud & Infrastructure (Nutanix, Linux, Networking)
-- Scalable system design and backend architecture
+
