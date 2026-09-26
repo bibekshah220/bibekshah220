@@ -1,8 +1,6 @@
-
-
 <div align="center">
 
-<img src="profile_dots_white.png" width="240" style="border-radius:50%;" />
+<img src="https://raw.githubusercontent.com/bibekshah220/bibekshah220/main/hacker_dots_white.png" width="360" />
 
 # Bibek Shah
 
